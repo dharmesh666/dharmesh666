@@ -57,7 +57,7 @@ POS, API Integration, Website, WMS(Warehouse Management System), MRP, Sales, Pur
 [5.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (Instagram profile of Dharmesh)
 
 <!-- links to social media accounts -->
-[1]: https://twitter.com/dharmesh_666
+[1]: https://twitter.com/dharmesh_8888
 [2]: https://www.linkedin.com/in/dharmesh-lathiya-python-odoo/
 [3]: mailto:dharmeshlathiya007@gmail.com
 [4]: #
