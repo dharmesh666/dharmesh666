@@ -1,7 +1,7 @@
 ## Hi there, I'm Dharmesh Lathiya. 👋 
 ### I'm Software Engineer with a passion for ERP/eCommerce implementations.
 
-- :telescope: The majority of my experience in Odoo ERP and eCommerce implementations dates back to 5+ years.
+- :telescope: The majority of my experience in Odoo ERP and eCommerce implementations dates back to 7+ years.
 - 👀 During my free time, I enjoy working with Javascript/Openframeworks and studying functional programming with Clojure.
 - 🌱 I’m currently learning OWL JS framework.
 - 💞️ Goals: Start contributing to Open Source projects.
