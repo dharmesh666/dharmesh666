@@ -10,7 +10,7 @@
 ## Skills
 ### Programming Languages
 - Python
-- Javascript, jQuery
+- Javascript(jQuery, OWL JS, Underscore JS)
 - XML
 - HTML5
 - LESS
@@ -35,7 +35,7 @@ POS, API Integration, Website, WMS(Warehouse Management System), MRP, Sales, Pur
 
 ### Miscellaneous
 - REST APIs
-- Git and GitHub
+- Git, GitHub, GitLab, CI/CD Pipeline
 - API Interation
 - Handle Linux/Unix Server, AWS(Amazon Web Service), Google Cloud, Web servers
 - Setup and configuration of SSL and domain binding
